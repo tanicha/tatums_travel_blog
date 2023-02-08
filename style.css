@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+}
+
+h1, h3 {
+    font-family: Georgia, serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+article {
+    background-image: linear-gradient(beige, white);
+}
+
+header {
+    background-image: url ("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    color: lightslategrey;
+}
+
+a{
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+
+
+
+
